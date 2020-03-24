@@ -1,0 +1,9 @@
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\bin\Release\ImageResizerAndLogoAdder.exe
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\bin\Release\ImageResizerAndLogoAdder.pdb
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.Form1.resources
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.Properties.Resources.resources
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.exe
+C:\Users\Spencer\source\repos\ImageResizerAndLogoAdder\obj\Release\ImageResizerAndLogoAdder.pdb
